@@ -10,9 +10,9 @@ int main(){
   int matrice_output [10][10];
 
   int temp_mult = 0;
-  cout << "Enter rows and columns for first matrix: ";
+  cout << "Enter  number of rows and number of columns for first matrix: "<<endl;
   cin >> rows_1 >> cols_1;
-  cout << "Enter rows and columns for second matrix: ";
+  cout << "Enter number of rows and number of columns for second matrix: "<<endl;
   cin >> rows_2 >> cols_2;
 
   cout << endl << "Enter elements of matrix 1:" << endl;
